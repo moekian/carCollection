@@ -13,6 +13,7 @@
 		1C5DEA99237358F100BE7CEA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C5DEA97237358F100BE7CEA /* Main.storyboard */; };
 		1C5DEA9B237358F200BE7CEA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C5DEA9A237358F200BE7CEA /* Assets.xcassets */; };
 		1C5DEA9E237358F200BE7CEA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1C5DEA9C237358F200BE7CEA /* LaunchScreen.storyboard */; };
+		1C5DEAA623735B5900BE7CEA /* CarImageCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C5DEAA523735B5900BE7CEA /* CarImageCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1C5DEA9A237358F200BE7CEA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1C5DEA9D237358F200BE7CEA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1C5DEA9F237358F200BE7CEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1C5DEAA523735B5900BE7CEA /* CarImageCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarImageCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				1C5DEA91237358F100BE7CEA /* AppDelegate.swift */,
 				1C5DEA93237358F100BE7CEA /* SceneDelegate.swift */,
 				1C5DEA95237358F100BE7CEA /* ViewController.swift */,
+				1C5DEAA523735B5900BE7CEA /* CarImageCell.swift */,
 				1C5DEA97237358F100BE7CEA /* Main.storyboard */,
 				1C5DEA9A237358F200BE7CEA /* Assets.xcassets */,
 				1C5DEA9C237358F200BE7CEA /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				1C5DEA96237358F100BE7CEA /* ViewController.swift in Sources */,
 				1C5DEA92237358F100BE7CEA /* AppDelegate.swift in Sources */,
+				1C5DEAA623735B5900BE7CEA /* CarImageCell.swift in Sources */,
 				1C5DEA94237358F100BE7CEA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
